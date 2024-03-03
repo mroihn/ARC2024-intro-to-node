@@ -1,1 +1,0 @@
-Axios adalah promise-based HTTP library yang memungkinkan developer melakukan request ke server mereka sendiri atau server pihak ketiga untuk mengambil data.
